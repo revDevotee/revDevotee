@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @revDevotee
 what is that?
 
 <!---
